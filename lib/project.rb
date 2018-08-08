@@ -9,6 +9,6 @@ class Project
   
   def add_backer(title)
     #binding.pry
-    @backers << @title
+    #@backers << @title
   end 
 end 
