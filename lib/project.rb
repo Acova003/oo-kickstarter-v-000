@@ -7,8 +7,8 @@ class Project
     @backers = []
   end 
   
-  def add_backer(title)
+  def add_backer(backer)
     #binding.pry
-    #@backers << @title
+    @backers << backer
   end 
 end 
